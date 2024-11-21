@@ -16,7 +16,7 @@ body {
   color: #5a3e2b;
   font-family: "Quicksand";
   font-weight: 500;
-  background-color: #333; 
+  background-color: #333;
 }
 
 .app {
@@ -73,7 +73,7 @@ input {
 }
 
 .list {
-  background-color: #5a3e2b;
+  background-color: #17dcff;
   color: #ffebb3;
   padding: 4rem 0;
 
@@ -88,7 +88,7 @@ input {
   display: flex;
   justify-content: flex-end;
   padding: 1rem;
-  background-color: #5a3e2b; 
+  background-color: #17dcff; 
   width: 80%; 
   margin: 0 auto; 
 }
@@ -154,7 +154,7 @@ input[type="checkbox"] {
 }
 
 .stats {
-  background-color: #76c7ad;
+  background-color: #57945f;
   text-align: center;
   font-weight: 700;
   padding: 3.2rem 0;
